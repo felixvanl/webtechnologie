@@ -1,0 +1,1 @@
+Ich habe gelernt das man in Github branches erstellen kann, welche benutzt werden um mehrere Benutzer dateien gleichzeitig bearbeiten zu können ohne das diese veränderungen direkt im Finalen Projekt vorzufinden sind. Außerdem habe ich gelernt das man issues benutzen
