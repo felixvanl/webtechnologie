@@ -1,0 +1,1 @@
+Erzeugen Sie eine neues Markdown- oder Text-Datei und schreiben Sie darin einen kurzen Text was Sie über Git/GitHub gelernt haben und was Ihnen noch unklar ist. Commiten Sie diese Datei. [2 Punkte]
